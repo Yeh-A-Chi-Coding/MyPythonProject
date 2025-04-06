@@ -2,7 +2,6 @@
 File: Steeplechase.py
 Name: Ricky Yeh
 ---------------------------------
-Ricky Yeh
 """
 
 from karel.stanfordkarel import *
