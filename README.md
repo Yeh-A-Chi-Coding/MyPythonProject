@@ -7,4 +7,4 @@ This repository holds my programming projects done.
 3.[Pothole Filling](MyPythonProject/PotholeFilling.py)\
 4.[Beeper Row](MyPythonProject/BeeperRow.py)\
 5.[Beeper Row Hard Mode](MyPythonProject/BeeperRowAdv.py)\
-6.[Steeplechase](MyPythonProject/Steeplechase.py)\
+6.[Steeplechase](MyPythonProject/Steeplechase.py)
